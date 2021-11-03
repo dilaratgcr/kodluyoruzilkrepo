@@ -1,7 +1,7 @@
 # Kodluyoruz İlk Repo
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![Görsel](gorsel.png)
+![Görsel](kodluyoruzilkrepo/../gorsel/gorsel.png)
 
 # İnstallation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
